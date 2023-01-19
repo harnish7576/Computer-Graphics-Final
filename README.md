@@ -18,9 +18,7 @@ Unlike previous 3D programming assignments, for this assignment, only a very min
 
 myCube = new Cube (20); 
 mySphere = new Sphere (20,20); 
-
 myCylinder = new Cylinder (20,20); 
-
 myCone = new Cone (20,20); 
 
 * A minimized version of the gIMatrix library is provided for you to perform matrix operations in your javascript code. Like with previous assignments, the docs on using the gIMatrix library can be found here.
