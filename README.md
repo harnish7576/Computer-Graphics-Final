@@ -1,5 +1,5 @@
 # Computer-Graphics-Final
-CSCI-610 - In progress
+CSCI-610
 
 # Introduction
 In this project, you will test your skills with WebGL by creating and rendering a 3D scene. This involves:
